@@ -1,0 +1,2 @@
+print("Not puanlari")
+liste=[]

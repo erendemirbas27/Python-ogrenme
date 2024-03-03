@@ -1,0 +1,1 @@
+birincikişi=int(input("X için 1 , O için "))
